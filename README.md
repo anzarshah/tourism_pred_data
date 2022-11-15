@@ -1,4 +1,4 @@
-## Tourism data Prediction System
+## Boston Housing Prediction Model
 
 
 ### Connect with me :
